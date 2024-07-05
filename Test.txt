@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en-UK">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Fantasy Cricket</title>
+  </head>
+  <body>
+    <h1>Hey Lucy</h1>
+    <h4>Hey Lucy (I'm whispering this time)</h4>
+    <p>This is a new paragraph<p>
+  </body>
+</html>
